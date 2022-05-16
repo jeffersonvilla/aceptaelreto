@@ -8,6 +8,7 @@ public class NumerosKaprekar {
 
     public static void main(String[] args) {
         while (true) {
+            
             String entrada = String.valueOf(in.nextInt());
             if (entrada.equals("0"))
                 break;
